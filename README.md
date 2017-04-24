@@ -1,6 +1,6 @@
 # Network Exchange
 
-Network Exchange is a CenturyLink cloud satellite application that provides automation interconnection of heterogeneous networks.
+Network Exchange is a CenturyLink cloud satellite application that provides automated interconnection of heterogeneous networks.
 
 ### Prerequisites
 
