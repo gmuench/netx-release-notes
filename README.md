@@ -9,8 +9,13 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 ## Versioning
 
 API V1.0.4
-UI V1.0.3
+UI V1.0.4
 
+## Release Update – April 25, 2017
+### Fix
+* Minor bug fix.
+### New
+* Added Release Notes link.
 ## Release Initial – April 24, 2017
 ### New
 * Added ability to create an "Exchange" connecting "Endpoints" together in a virtual mesh of connectivity.
