@@ -12,7 +12,7 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 * UI V1.0.3
 
 ## Release Update – April 27, 2017
-### Enhancement
+### Fix
 * Minor bug fix.
 ## Release Update – April 26, 2017
 ### Enhancement
