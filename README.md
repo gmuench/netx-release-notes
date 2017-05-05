@@ -9,8 +9,11 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 ## Versioning
 
 * API V1.0.7
-* UI V1.0.4
+* UI V1.0.5
 
+## Release Update – May 5, 2017
+### Enhancement
+* UI - Added KB Button to landing view.
 ## Release Update – May 4, 2017
 ### Enhancement
 * API - Minor enhancement around internal proxy configuration.
