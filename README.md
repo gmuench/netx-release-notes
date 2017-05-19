@@ -8,9 +8,15 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.7
-* UI V1.0.5
+* API V1.0.8
+* UI V1.0.6
 
+## Release Update – May 19, 2017
+### Enhancement
+* UI - Added Feature "Providers" to wizards.
+* API - Added REST endpoint to support Providers base feature selection.
+### Fix
+* UI - Minor bug fix related to using the back button in wizards.
 ## Release Update – May 5, 2017
 ### Enhancement
 * UI - Added KB Button to landing view.
