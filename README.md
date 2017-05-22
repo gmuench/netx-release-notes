@@ -8,9 +8,12 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.8
+* API V1.0.9
 * UI V1.0.6
 
+## Release Update – May 22, 2017
+### Enhancement
+* API - Exchange Diagnostic tests both primary and secondary paths.
 ## Release Update – May 19, 2017
 ### Enhancement
 * UI - Added Feature "Providers" to wizards.
