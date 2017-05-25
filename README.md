@@ -8,10 +8,13 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.10
+* API V1.0.11
 * UI V1.0.6
 
 ## Release Update – May 25, 2017
+### Enhancement
+* API - Fixed naming convention for HAN vlans.
+## Release Update – May 24, 2017
 ### Enhancement
 * API - Added internal artifacts for version tracking and endpoint identification.
 ## Release Update – May 22, 2017
