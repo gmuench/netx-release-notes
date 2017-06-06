@@ -8,9 +8,13 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.11
-* UI V1.0.6
+* API V1.0.12
+* UI V1.0.7
 
+## Release Update – June 6, 2017
+### Enhancement
+* API - Added Exchange Configuration View backend.
+* UI - Added Exchange Configuration View.
 ## Release Update – May 25, 2017
 ### Enhancement
 * API - Fixed naming convention for HAN vlans.
