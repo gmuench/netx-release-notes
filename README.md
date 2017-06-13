@@ -8,9 +8,13 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.12
-* UI V1.0.7
+* API V1.0.14
+* UI V1.0.9
 
+## Release Update – June 13, 2017
+### Enhancement
+* API - Added CenturyLink Dedicated Access and Third Party Dedicated Access features.
+* UI - Added CenturyLink Dedicated Access and Third Party Dedicated Access features.
 ## Release Update – June 6, 2017
 ### Enhancement
 * API - Added Exchange Configuration View backend.
