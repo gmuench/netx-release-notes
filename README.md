@@ -8,11 +8,12 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.15
+* API V1.0.16
 * UI V1.0.10
 ## Release Update – June 14, 2017
 ### Fix
 * API - Bug fix related to test exchange.
+* API - Updated physical interface descriptions.
 * UI - Minor cosmetic word change in review your request page.
 ## Release Update – June 13, 2017
 ### Enhancement
