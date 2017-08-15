@@ -8,8 +8,16 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.17
-* UI V1.0.13
+* API V1.0.19
+* UI V1.0.15
+## Release Update – August 15, 2017
+### Fix
+* API - Additional firewall rules created for CLC endpoints.
+* UI - Special characters allowed in exchange descriptions.
+## Release Update – August 8, 2017
+### Fix
+* API - Added UUID to endpoints.
+* UI - Added more meaningful error messages.
 ## Release Update – June 29, 2017
 ### Fix
 * API - Bug fix related to reseller authentication.
