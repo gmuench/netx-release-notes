@@ -8,8 +8,15 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.19
-* UI V1.0.15
+* API V1.0.20
+* UI V1.0.16
+## Release Update – September 14, 2017
+### Enhancement
+* UI - Add DATA3 as a new provider to Managed Hosting.
+* UI - Allow homogeneous endpoints in one exchange
+* UI - Add "Show Physical Interface" action to COLO and Dedicated Access Endpoints.
+* API - Add code related to the UI enhancement.
+
 ## Release Update – August 15, 2017
 ### Fix
 * API - Additional firewall rules created for CLC endpoints.
