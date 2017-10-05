@@ -10,6 +10,14 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 * API V1.0.20
 * UI V1.0.16
+* DCB V1.1.3
+
+## Release Update – October 5, 2017
+### Enhancement
+* API - Promotional code. IBGP only for HAN. Fix COLO BGP instructions. 
+* DCB - Added term billing.
+* UI - Added term billing.
+
 ## Release Update – September 14, 2017
 ### Enhancement
 * UI - Add DATA3 as a new provider to Managed Hosting.
