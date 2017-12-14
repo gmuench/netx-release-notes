@@ -9,8 +9,12 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 ## Versioning
 
 * API V1.0.20
-* UI V1.0.16
+* UI V1.0.20
 * DCB V1.1.3
+
+## Release Update – December 14, 2017
+### Enhancement
+* UI - Increased allowed subnet CIDRs for static routes.
 
 ## Release Update – October 5, 2017
 ### Enhancement
