@@ -8,9 +8,13 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.20
-* UI V1.0.20
+* API V1.0.23
+* UI V1.0.21
 * DCB V1.1.3
+
+## Release Update – January 2, 2018
+### Enhancement
+* API - Bug fix for iBGP IPs. Added BGP status button for clc endpoints.
 
 ## Release Update – December 14, 2017
 ### Enhancement
