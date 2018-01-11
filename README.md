@@ -8,9 +8,15 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.23
-* UI V1.0.21
+* API V1.0.24
+* UI V1.0.22
 * DCB V1.1.3
+
+
+## Release Update – January 11, 2018
+### Enhancement
+* UI/API - Add endpoint description. Add NextDC as Colo provider. Add Show Vrrp Action. Add ability to disable endpiont. All multiple static route adds.
+
 
 ## Release Update – January 2, 2018
 ### Enhancement
