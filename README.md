@@ -8,10 +8,14 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.24
-* UI V1.0.22
+* API V1.0.26
+* UI V1.0.24
 * DCB V1.1.3
 
+
+## Release Update – January 16, 2018
+### Enhancement
+* UI/API - Endpoint description update. Allow creating a static endpoint with no static routes.
 
 ## Release Update – January 11, 2018
 ### Enhancement
