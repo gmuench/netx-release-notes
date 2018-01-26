@@ -8,10 +8,14 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.26
-* UI V1.0.24
-* DCB V1.1.3
-
+* API V1.0.27
+* UI V1.0.25
+## Release Update – January 26, 2018
+### Enhancement
+* UI/API - MLAG Refactoring for CLC
+### Bug Fix
+* Fix updatedBy field on the UI is not showing correct username when a static route is updated.
+* Fix switch usage data is not showing correctly when there are multiple endpoints with same type in one exchange.
 
 ## Release Update – January 16, 2018
 ### Enhancement
@@ -20,7 +24,6 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 ## Release Update – January 11, 2018
 ### Enhancement
 * UI/API - Add endpoint description. Add NextDC as Colo provider. Add Show Vrrp Action. Add ability to disable endpiont. All multiple static route adds.
-
 
 ## Release Update – January 2, 2018
 ### Enhancement
