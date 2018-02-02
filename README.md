@@ -8,8 +8,15 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.27
-* UI V1.0.25
+* API V1.0.28
+* UI V1.0.26
+
+## Release Update – February 2, 2018
+### Enhancement
+* UI/API - Show CLC Firewall Rules.
+### Bug Fix
+* UI - Add additional Cloud endpoint performs intended pre-build validations.
+
 ## Release Update – January 26, 2018
 ### Enhancement
 * UI/API - MLAG Refactoring for CLC
