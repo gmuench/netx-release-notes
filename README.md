@@ -8,8 +8,14 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API V1.0.30
-* UI V1.0.26
+* API    V1.1.0
+* CLC-UI V1.1.0
+* CAM-UI V1.1.0
+
+## Release Update – February 23, 2018
+### Enhancement
+* UI/API  - Refactored to support both CLC and CAM authentication. CLC firewall rules view and refresher. 
+
 ## Release Update – February 8, 2018
 ### Bug Fix
 API - Prevent exchanged created in CAM showing in CLC.
