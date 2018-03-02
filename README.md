@@ -13,6 +13,10 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 * CAM-UI V1.1.0
 
 ## Release Update – March 2, 2018
+### Enhancement
+* CLC-UI - Color changes for buttons. Added Test ARP feature. Added Test Next Hop feature.
+* CAM-UI - Color changes for buttons. Added Test ARP feature. Added Test Next Hop feature.
+* API  - Added Test ARP feature. Added Test Next Hop feature.
 ### Fix
 * API  - Bug fix for port reservation. Bug fix for small architecture datacenters.
 
