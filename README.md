@@ -8,9 +8,13 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API    V1.1.0
+* API    V1.1.1
 * CLC-UI V1.1.0
 * CAM-UI V1.1.0
+
+## Release Update – March 2, 2018
+### Fix
+* API  - Bug fix for port reservation. Bug fix for small architecture datacenters.
 
 ## Release Update – February 23, 2018
 ### Enhancement
