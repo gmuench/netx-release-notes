@@ -8,9 +8,18 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API    V1.1.2
-* CLC-UI V1.1.1
-* CAM-UI V1.1.1
+* API    V1.1.3
+* CLC-UI V1.1.2
+* CAM-UI V1.1.2
+
+
+## Release Update – March 20, 2018
+### Enhancement
+* CLC-UI - Added last polled usage data for admins. Removed KB and release notes buttons.
+* CAM-UI - Added last polled usage data for admins. Removed KB and release notes buttons.
+* API  - Added dependencies for future features.
+### Fix
+* CLC-UI - Fixed logout button. Test Next hop now uses VIP address. Username shows near logout button.
 
 ## Release Update – March 6, 2018
 ### Fix
