@@ -10,8 +10,11 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 * API    V1.1.3
 * CLC-UI V1.1.2
-* CAM-UI V1.1.2
+* CAM-UI V1.1.3
 
+## Release Update – March 21, 2018
+### Enhancement
+* CAM-UI - Added logout button.
 
 ## Release Update – March 20, 2018
 ### Enhancement
