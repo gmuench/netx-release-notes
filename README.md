@@ -14,7 +14,7 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Release Update – March 21, 2018
 ### Enhancement
-* CAM-UI - Added logout button.
+* CAM-UI - Filtered out CAM personal workspaces. Added a logout button.
 
 ## Release Update – March 20, 2018
 ### Enhancement
