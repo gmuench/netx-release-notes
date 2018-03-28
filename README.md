@@ -8,9 +8,13 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API    V1.1.3
-* CLC-UI V1.1.2
+* API    V1.1.4
+* CLC-UI V1.1.4
 * CAM-UI V1.1.3
+
+## Release Update – March 28, 2018
+### FIX
+* CLC-UI - Cross Application validators added for Centurylink Cloud. Atlas version updated to 3.0.3 to fix large hierarchies.
 
 ## Release Update – March 21, 2018
 ### Enhancement
