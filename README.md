@@ -12,6 +12,10 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 * CLC-UI V1.1.6
 * CAM-UI V1.1.9
 
+## Release Update – April 20, 2018
+### FIX
+* API - Updated logging hostname.
+
 ## Release Update – April 11, 2018
 ### FIX
 * API - Updated database hostnames.
