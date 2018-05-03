@@ -8,9 +8,13 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API    V1.1.6
-* CLC-UI V1.1.6
-* CAM-UI V1.1.9
+* API    V1.1.7
+* CLC-UI V1.1.7
+* CAM-UI V1.1.10
+
+## Release Update – May 03, 2018
+### Enhancement
+* CLC-UI/CAM-UI - Added redundancy type to the COLO/DA endpoint view. Updated delete exchange/endpoint confirmation wording. Updated AS number valiation logic. More robust filter options for exchanges(for Admin view). 
 
 ## Release Update – April 20, 2018
 ### FIX
