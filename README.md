@@ -8,11 +8,13 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API    V1.1.9
+* API    V1.1.10
 * CLC-UI V1.1.9
 * CAM-UI V1.1.12
 
-Exchange list view filter tweaks, cosmetic tweaks. Added global map.
+## Release Update – July 2, 2018
+### Enhancement
+* API - Added CenturyLink Private Cloud DCCF feature.
 
 ## Release Update – June 19, 2018
 ### Enhancement
