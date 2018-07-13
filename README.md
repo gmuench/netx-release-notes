@@ -8,9 +8,14 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API    V1.1.10
-* CLC-UI V1.1.10
-* CAM-UI V1.1.13
+* API    V1.1.11
+* CLC-UI V1.1.11
+* CAM-UI V1.1.14
+* DCB    V1.1.9
+
+## Release Update – July 13, 2018
+### Enhancement
+* API/CLC-UI/CAM-UI - Added Third Party Shared Access with Single Line feature.
 
 ## Release Update – July 2, 2018
 ### Enhancement
