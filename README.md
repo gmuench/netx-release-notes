@@ -15,9 +15,11 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Release Update – August 1, 2018
 ### Enhancement
-* API - Reserve Ports by SFP is possible. Minor bug fixes.
-* CLC-UI - Increased COLO/DA/DCCF route CIDR to /8. Minor bug fixes.
-* CAM-UI - Admin View for CAM portal. Increased COLO/DA/DCCF route CIDR to /8. Minor bug fixes.
+* API - Reserve Ports by SFP is possible.
+* CLC-UI - Increased COLO/DA/DCCF route CIDR to /8.
+* CAM-UI - Admin View for CAM portal. Increased COLO/DA/DCCF route CIDR to /8. 
+### FIX
+* API/CLC-UI/CAM-UI - Minor bug fixes.
 
 ## Release Update – July 13, 2018
 ### Enhancement
