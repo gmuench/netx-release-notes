@@ -8,10 +8,16 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API    V1.1.11
+* API    V1.1.12
 * CLC-UI V1.1.11
 * CAM-UI V1.1.14
 * DCB    V1.1.9
+
+## Release Update – August 1, 2018
+### Enhancement
+* API - Reserve Ports by SFP is possible. Minor bug fixes.
+* CLC-UI - Increased COLO/DA/DCCF route CIDR to /8. Minor bug fixes.
+* CAM-UI - Admin View for CAM portal. Increased COLO/DA/DCCF route CIDR to /8. Minor bug fixes.
 
 ## Release Update – July 13, 2018
 ### Enhancement
