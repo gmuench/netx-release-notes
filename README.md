@@ -8,10 +8,19 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 
 ## Versioning
 
-* API    V1.1.12
-* CLC-UI V1.1.12
-* CAM-UI V1.1.19
-* DCB    V1.1.9
+* API    V1.1.15
+* CLC-UI V1.1.15
+* CAM-UI V1.1.20
+* DCB    V1.1.11
+
+## Release Update – September 21, 2018
+### Enhancement
+* API    V1.1.15 - IQ+ Feature.
+* CLC-UI V1.1.15 - IQ+ Feature.
+* CAM-UI V1.1.20 - IQ+ Feature.
+* DCB    V1.1.11 - IQ+ Feature.
+### FIX
+* CAM-UI V1.1.15 - GlobalMap geojson served internally to prevent adBlock.
 
 ## Release Update – August 24, 2018
 ### Enhancement
