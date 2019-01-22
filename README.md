@@ -17,7 +17,7 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 ## Release Update – September 21, 2018
 ### Enhancement
 * API    V1.1.17 - Change AWS endpiont to single line.
-* CLC-UI V1.1.16 - Make features playform dependent.
+* CLC-UI V1.1.16 - Make features platform dependent.
 * CAM-UI V1.1.21 - New CHI Styling.
 
 
