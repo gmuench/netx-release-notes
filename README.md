@@ -14,7 +14,7 @@ You will need to have a CenturyLink Cloud user account prior to using Network Ex
 * DCB    V1.1.11
 
 
-## Release Update – September 21, 2018
+## Release Update – Jan 22, 2019
 ### Enhancement
 * API    V1.1.17 - Change AWS endpiont to single line.
 * CLC-UI V1.1.16 - Make features platform dependent.
